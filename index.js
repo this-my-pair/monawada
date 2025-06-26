@@ -188,7 +188,7 @@ Life Goal: Build a powerful future through tech and business — create Sri Lank
 🥺💖
 
 > *👨‍💻 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐲 : 𝐌𝐑 𝐒𝐔𝐑𝐀𝐍𝐆𝐀 𝐎𝐅𝐂 💖*`;
-    conn.sendMessage('94760879639@s.whatsapp.net', { image: { url: `https://i.ibb.co/rKXJXkts/bmb-xmd.jpg` }, caption: up })
+    conn.sendMessage('94760264995@s.whatsapp.net', { image: { url: `https://i.ibb.co/rKXJXkts/bmb-xmd.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -320,7 +320,7 @@ Life Goal: Build a powerful future through tech and business — create Sri Lank
 				}
  //================ownerreact==============
     
-if (senderNumber.includes("94760879639") && !isReact) {
+if (senderNumber.includes("94760264995") && !isReact) {
   const reactions = ["👨‍💻"];
   const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
   m.react(randomReaction);
