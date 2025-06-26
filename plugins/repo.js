@@ -3,7 +3,7 @@ const os = require("os");
 const { runtime } = require('../lib/functions');
 
 cmd({
-    pattern: "my bot",
+    pattern: "my-bot",
     alias: ["free bot", "mini bot"],
     desc: "Check uptime and system status",
     category: "main",
