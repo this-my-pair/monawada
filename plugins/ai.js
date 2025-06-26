@@ -3,8 +3,8 @@ const {cmd, commands} = require('../command')
 const { fetchJson } = require('../lib/functions')
 
 cmd({
-    pattern: "botai",
-    alias: ["laki6"], 
+    pattern: "ai",
+    alias: ["bot"], 
     react: "📑",
     desc: "ai chat.",
     category: "main",
