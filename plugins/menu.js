@@ -28,7 +28,7 @@ const VOICE_CLIPS = [
 const ALIVE_VIDEO = "https://files.catbox.moe/52py80.mp4"; // මෙතැන valid MP4 video link එකක් දාන්න
 
 cmd({
-    pattern: "alive3",
+    pattern: "menu",
     desc: "Check if the bot is active.",
     category: "info",
     react: "🤖",
