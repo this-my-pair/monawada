@@ -75,6 +75,8 @@ Hey 👋🏻 ${pushname}
 
 * .my bot
 
+* .itn
+
 🧙‍♂️ *CHANEL :- https://whatsapp.com/channel/0029VbBNZJcAzNbvfssOXP28*
 
 > *➥𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐲 - : 𝐌𝐑 𝐒𝐔𝐑𝐀𝐍𝐆𝐀 𝐎𝐅𝐂 💖*
